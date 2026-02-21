@@ -139,7 +139,7 @@ Campaign participation increases engagement but does not fundamentally reshape s
 
 # Files Included
 
-- `doordash_customer_analysis.xlsx` – Full Excel analysis
+- `DoorDash_Case_Study_Edit.xlsx` – Full Excel analysis
 - `data_dictionary.docx` – Dataset variable description
 - `Images/` – Visualisations used in the analysis
 
