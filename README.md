@@ -8,9 +8,9 @@ Developed as part of my Data Analytics Bootcamp, this case study demonstrates ho
 
 The dataset contains:
 
-- 2,022 customers  
-- 32 variables  
-- 3 years of purchasing data  
+- 2,021 customers  
+- 37 variables  
+- Purchasing behaviour between 2014 and 2016 
 
 Total revenue analysed: **€1,139,418**
 
